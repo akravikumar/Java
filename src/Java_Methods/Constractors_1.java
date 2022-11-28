@@ -1,4 +1,4 @@
-package com.Methods;
+package Java_Methods;
 
 public class Constractors_1 {
     Constractors_1 (){

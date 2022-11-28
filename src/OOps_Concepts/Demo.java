@@ -1,2 +1,4 @@
-package OOps_Concepts;public class Demo {
+package OOps_Concepts;
+
+public class Demo {
 }

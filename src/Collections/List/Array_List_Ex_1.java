@@ -1,11 +1,9 @@
 package Collections.List;
 
-import Java_Methods.Java_Methods;
-
 import java.util.ArrayList;
 import java.util.List;
 
-public class ArrayList_Ex_1 {
+public class Array_List_Ex_1 {
 
     public static void main(String[] args) {
 

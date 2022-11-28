@@ -1,9 +1,9 @@
-package Access_Modifiers;
+package Access_Modifiers.Private;
 
 public class Private_method {
 
 // If we create any method in private it can the class
-     protected void myMethod (){
+     private void myMethod (){
         int i = 100;
         int j = 200;
         System.out.println(i+j);
