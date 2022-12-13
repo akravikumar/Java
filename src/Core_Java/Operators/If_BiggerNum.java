@@ -2,7 +2,7 @@ package Core_Java.Operators;
 
 import java.util.Scanner;
 
-public class Ternary_Operators {
+public class If_BiggerNum {
     public static void main(String[] args) {
 
         Scanner billa = new Scanner(System.in);

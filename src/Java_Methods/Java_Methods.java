@@ -1,2 +1,4 @@
-package Java_Methods.Methods;public class Java_Methods {
+package Java_Methods;
+
+public class Java_Methods {
 }

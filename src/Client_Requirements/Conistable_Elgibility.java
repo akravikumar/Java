@@ -1,4 +1,4 @@
-package Core_Java.Client_Requirements;
+package Client_Requirements;
 
 import java.util.Scanner;
 

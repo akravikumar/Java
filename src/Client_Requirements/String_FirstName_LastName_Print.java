@@ -2,7 +2,7 @@ package Client_Requirements;
 
 import java.util.Scanner;
 
-public class String_Handling_1 {
+public class String_FirstName_LastName_Print {
     public static void main(String[] args) {
 
         Scanner user = new Scanner(System.in);

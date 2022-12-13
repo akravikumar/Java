@@ -1,4 +1,6 @@
-package Collections.List;
+package Collections;
 
 public class Linked {
+
+
 }
