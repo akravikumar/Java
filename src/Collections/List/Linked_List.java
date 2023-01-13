@@ -7,7 +7,7 @@ public class Linked_List {
 
     public static void main(String[] args) {
 
-        List<String> user =new LinkedList<>();
+        List<String> user =new LinkedList<>();  // Linked List creation
 
         user.add("Ravi");
         user.add("Bheemesh");

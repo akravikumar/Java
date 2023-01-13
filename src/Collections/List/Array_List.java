@@ -16,10 +16,25 @@ public class Array_List {
         obj.add(100);
 
         obj.remove(0); //remove the array values by using index number
-        System.out.println(obj);
+
+       obj.forEach(billa ->{
+           if(billa >40){
+               System.out.println(billa); // Printing above 40 values
+           }
+       });
+
+
+
+
+
+
+    //    System.out.println(obj);
+       // System.out.println(obj.get(2));
        // System.out.println(obj.get(2));// It is calling specific arrayList values by using get(index num)
-        obj.clear(); // It clearing the all arrayList values by using "clear" method
-        System.out.println(obj);
+
+       // obj.clear(); // It clearing the all arrayList values by using "clear"
+        // method
+      //  System.out.println(obj);
 
     }
 }

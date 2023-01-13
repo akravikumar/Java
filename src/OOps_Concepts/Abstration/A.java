@@ -13,12 +13,14 @@ public interface A {
 
 
     public void C (){
+
         System.out.println("Im a C");
     }
 
 }
  class M extends B{
     public void a (){
+
         System.out.println("I am A");
     }
 
