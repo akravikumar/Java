@@ -4,7 +4,7 @@ public class Exception_Handiliing {
 
     public static void main(String[] args) {
 
-        int i =5;
+        int i =6;
         int j=0;
         int c=i/j;
         System.out.println(c); // Excuting the code abnormal, it won't divide the 5/0 = infinity...
